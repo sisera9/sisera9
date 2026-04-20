@@ -1,28 +1,13 @@
-<!-- 🕌 CALIGRAPHY BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=200&section=header&text=Assalamu’alaikum%20🌙%20Siti%20Serli%20Aviva&fontSize=28&fontColor=ffffff&animation=fadeIn" />
-</p>
+<h2> 🌙 Hii, I'm Siti Serli Aviva! </h2>
 
----
+💻 Student at SMKN 1 Probolinggo | 🧩 Software Engineering
 
-<p align="center">
-🕌 <i>"Seeking knowledge is an obligation for every Muslim"</i>  
-</p>
++ 🌱 Programming isn’t easy, but I have to learn — after all, it’s my major.  
++ 💡 Interests: Islamic Art & realistic drawing  
++ ☕ Fun fact: Introvert | Still learning design  
 
----
+🌐 Follow Me
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/baytqalam.sisera?igsh=dHVqMnE5cnc5cnpo)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/sisera9)
 
-## 🌙 About Me
-💻 Software Engineering Student at SMKN 1 Probolinggo  
-🧠 Fullstack Developer & UI/UX Enthusiast  
-🎨 Passionate in Islamic Art & Modern Web Design  
-📍 Indonesia  
-
----
-
-## ⚡ Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=php,js,html,css,mysql,git,vscode" />
-
-</p>
+> 🌸 Like it or not, I have to learn — the future won't wait.
