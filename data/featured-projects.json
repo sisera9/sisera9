@@ -1,0 +1,24 @@
+[
+  {
+    "name": "SIKAS System",
+    "repo": null,
+    "url": "https://sikas.infinityfreeapp.com/",
+    "homepage": "https://sikas.infinityfreeapp.com/",
+    "role": "Developer",
+    "status": "In Development",
+    "focus": "Financial & Administrative Tracking",
+    "summary": "A web-based application designed to streamline financial or administrative tracking.",
+    "tags": ["Web Application", "PHP", "MySQL", "Financial System", "InfinityFree"]
+  },
+  {
+    "name": "Hitung HPP Website",
+    "repo": "sisera9/Website-Hiitung-HPP",
+    "url": "https://github.com/sisera9/Website-Hiitung-HPP",
+    "homepage": "https://sisera9.github.io/Website-Hiitung-HPP/",
+    "role": "Developer",
+    "status": "Active Development",
+    "focus": "Cost of Goods Sold Calculator",
+    "summary": "A web calculator tool to help calculate Cost of Goods Sold (HPP / Harga Pokok Penjualan) efficiently.",
+    "tags": ["Web Tool", "Calculator", "HTML5", "CSS3", "JavaScript", "GitHub Pages"]
+  }
+]
